@@ -1,0 +1,22 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pavp/react-architecture-intelligence/releases/download/v0.1.3/rai_0.1.3_windows_amd64.zip",
+            "bin": [
+                "rai.exe"
+            ],
+            "hash": "8539abb4810a41548ae881ba6aef00f962f513c6eba4f0a2df910729904327fd"
+        },
+        "arm64": {
+            "url": "https://github.com/pavp/react-architecture-intelligence/releases/download/v0.1.3/rai_0.1.3_windows_arm64.zip",
+            "bin": [
+                "rai.exe"
+            ],
+            "hash": "0c91c8b5c8cb543022b76a011bee1c8a4675734f24dc791f3e52e9c013d15ebe"
+        }
+    },
+    "homepage": "https://github.com/pavp/react-architecture-intelligence",
+    "license": "MIT",
+    "description": "React Architecture Intelligence launcher"
+}
