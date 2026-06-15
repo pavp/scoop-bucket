@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pavp/react-architecture-intelligence/releases/download/v0.2.1/rai_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/pavp/react-architecture-intelligence/releases/download/v0.2.2/rai_0.2.2_windows_amd64.zip",
             "bin": [
                 "rai.exe"
             ],
-            "hash": "d359977956b63538a3d84749f070d5a4c6606e14b4c1d183bcd255070c698e83"
+            "hash": "4c304100c1be49dd80885c6519134a6ff4ee2155517456738ea3ade0a10213de"
         },
         "arm64": {
-            "url": "https://github.com/pavp/react-architecture-intelligence/releases/download/v0.2.1/rai_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/pavp/react-architecture-intelligence/releases/download/v0.2.2/rai_0.2.2_windows_arm64.zip",
             "bin": [
                 "rai.exe"
             ],
-            "hash": "f3d7531f5f0fa683ac17a0c8ff5896faac81b518612ae8e16a670dd42a39fefd"
+            "hash": "e708a0051b722d3d57d0f4a82eb0df690963d80dabc6ec780d55cd38409b3e2a"
         }
     },
     "homepage": "https://github.com/pavp/react-architecture-intelligence",
